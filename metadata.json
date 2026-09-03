@@ -1,0 +1,6 @@
+{
+  "name": "Angielski dla Klasy IV - Mów i Powtarzaj",
+  "description": "Interaktywna nauka angielskich czasowników z wymową, powtarzaniem słówek i prostych zdań dla uczniów klasy 4 szkoły podstawowej (poziom A1-A2).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
